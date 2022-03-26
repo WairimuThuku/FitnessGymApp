@@ -147,7 +147,7 @@ public class payment extends AppCompatActivity {
 
         Charge charge = new Charge();
         charge.setAmount(amount);
-        charge.setCurrency("KSH");
+        charge.setCurrency("Ks");
         charge.setEmail(email);
         charge.setCard(card);
 
